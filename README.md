@@ -2,11 +2,11 @@
 A app where images fetch from API and implemented like/dislike images feature which is manage by core data.
 
 # Features 
- Like and Dislike the image which is managed by the core data.
- Save the specific image to the Photos App.
- Delete the images.
- Pull to refresh at home screen.
- See only Liked images. 
+ - Like and Dislike the image which is managed by the core data.
+ - Save the specific image to the Photos App.
+ - Delete the images.
+ - Pull to refresh at home screen.
+ - See only Liked images. 
 
 
 # Description 
