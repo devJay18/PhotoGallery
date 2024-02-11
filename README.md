@@ -31,4 +31,15 @@ About Detail Screen:-
 - Created Protocol for use delegate methods from detail screen to home screen to save and delete image. 
 
 # Demo 
-/Users/apple/Desktop/Screen Recording 2024-02-12 at 1.45.56 AM.mov
+
+- Home Screen 
+
+https://github.com/devJay18/PhotoGallery/assets/159724974/6bf6bbe2-be70-4f8f-a3a7-772150067583
+
+- Detail Screen
+
+https://github.com/devJay18/PhotoGallery/assets/159724974/298c112b-83b8-4dcf-9dba-9037a2bf7ac0
+
+- Pull to refresh and Liked Images List
+
+https://github.com/devJay18/PhotoGallery/assets/159724974/de2ac11c-da6a-44cd-9d3a-b3f0f6a0362f
