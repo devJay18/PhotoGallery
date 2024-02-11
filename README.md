@@ -33,10 +33,10 @@ About Detail Screen:-
 # Demo 
 
 - Home Screen 
-https://github.com/devJay18/PhotoGallery/assets/159724974/9d238308-2398-4198-a253-23c4abc95331
+https://github.com/devJay18/PhotoGallery/assets/159724974/976265ae-861e-4edd-bd4d-6942f38fe9b2
 
 - Detail Screen
-https://github.com/devJay18/PhotoGallery/assets/159724974/300a089d-3ed5-4d2b-861d-368b5ef63b2a
+https://github.com/devJay18/PhotoGallery/assets/159724974/e6291e2c-f6a9-4743-adf9-bd29f7ec410e
 
 - Pull to refresh and Liked Images List
-https://github.com/devJay18/PhotoGallery/assets/159724974/9cb947c1-1150-4ef3-a232-ce3946cca55c
+https://github.com/devJay18/PhotoGallery/assets/159724974/f92d2165-640e-4bab-98dd-3662ca3763e9
