@@ -25,18 +25,18 @@ About Detail Screen:-
 About Detail Screen:- 
 1. User can see the only records of image which is liked.
 
+# Demo 
 
+Home Screen
+https://github.com/devJay18/PhotoGallery/assets/159724974/976265ae-861e-4edd-bd4d-6942f38fe9b2
+
+Detail Screen
+https://github.com/devJay18/PhotoGallery/assets/159724974/e6291e2c-f6a9-4743-adf9-bd29f7ec410e
+
+Pull to refresh and Liked Images List
+https://github.com/devJay18/PhotoGallery/assets/159724974/f92d2165-640e-4bab-98dd-3662ca3763e9
+
+# More
 - Wrote Unit and UI test cases for All three screens.
 - No third party used.
 - Created Protocol for use delegate methods from detail screen to home screen to save and delete image. 
-
-# Demo 
-
-- Home Screen 
-https://github.com/devJay18/PhotoGallery/assets/159724974/976265ae-861e-4edd-bd4d-6942f38fe9b2
-
-- Detail Screen
-https://github.com/devJay18/PhotoGallery/assets/159724974/e6291e2c-f6a9-4743-adf9-bd29f7ec410e
-
-- Pull to refresh and Liked Images List
-https://github.com/devJay18/PhotoGallery/assets/159724974/f92d2165-640e-4bab-98dd-3662ca3763e9
